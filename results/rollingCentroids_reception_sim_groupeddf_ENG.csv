@@ -1,0 +1,405 @@
+,Year,Reception Class,Similarity
+0,-50,No Review & No Catalogue,0.6063674979628555
+1,-50,"No Review, Catalogue",0.6598758897321799
+2,-50,Review & Catalogue,0.6751485135117924
+3,-50,"Review, No Catalogue",0.66841566127568
+4,-49,No Review & No Catalogue,0.6087485999632667
+5,-49,"No Review, Catalogue",0.6610314876586854
+6,-49,Review & Catalogue,0.678382415053187
+7,-49,"Review, No Catalogue",0.6702346953904369
+8,-48,No Review & No Catalogue,0.6120944358727785
+9,-48,"No Review, Catalogue",0.6612917076514767
+10,-48,Review & Catalogue,0.6789886814924518
+11,-48,"Review, No Catalogue",0.6701138867857495
+12,-47,No Review & No Catalogue,0.6139577734020609
+13,-47,"No Review, Catalogue",0.66241203088913
+14,-47,Review & Catalogue,0.6811598903500584
+15,-47,"Review, No Catalogue",0.671586434075955
+16,-46,No Review & No Catalogue,0.6154723203522637
+17,-46,"No Review, Catalogue",0.6639807946665359
+18,-46,Review & Catalogue,0.6831360174064388
+19,-46,"Review, No Catalogue",0.6712741772120342
+20,-45,No Review & No Catalogue,0.6209762432756772
+21,-45,"No Review, Catalogue",0.6663987283040413
+22,-45,Review & Catalogue,0.6838014583785652
+23,-45,"Review, No Catalogue",0.6764479785306086
+24,-44,No Review & No Catalogue,0.6241930762365854
+25,-44,"No Review, Catalogue",0.6696500033507294
+26,-44,Review & Catalogue,0.6854453126297572
+27,-44,"Review, No Catalogue",0.6804880364207266
+28,-43,No Review & No Catalogue,0.6259874606357072
+29,-43,"No Review, Catalogue",0.673484836026842
+30,-43,Review & Catalogue,0.6869338238710414
+31,-43,"Review, No Catalogue",0.6810493286044408
+32,-42,No Review & No Catalogue,0.6280835160846193
+33,-42,"No Review, Catalogue",0.6771814088426723
+34,-42,Review & Catalogue,0.6917749750547971
+35,-42,"Review, No Catalogue",0.6829352053702946
+36,-41,No Review & No Catalogue,0.6318979036444738
+37,-41,"No Review, Catalogue",0.6810666159223778
+38,-41,Review & Catalogue,0.6950401126241281
+39,-41,"Review, No Catalogue",0.6858325382002124
+40,-40,No Review & No Catalogue,0.6322795351792759
+41,-40,"No Review, Catalogue",0.6826719155376307
+42,-40,Review & Catalogue,0.6965037229935129
+43,-40,"Review, No Catalogue",0.6861367338020555
+44,-39,No Review & No Catalogue,0.6338974971718785
+45,-39,"No Review, Catalogue",0.6849848757964024
+46,-39,Review & Catalogue,0.6974135770720657
+47,-39,"Review, No Catalogue",0.6908065618359869
+48,-38,No Review & No Catalogue,0.6357151501668532
+49,-38,"No Review, Catalogue",0.6876511046438598
+50,-38,Review & Catalogue,0.6989461608833535
+51,-38,"Review, No Catalogue",0.6904268736361632
+52,-37,No Review & No Catalogue,0.6359685729415373
+53,-37,"No Review, Catalogue",0.6912433475624081
+54,-37,Review & Catalogue,0.7009054316195922
+55,-37,"Review, No Catalogue",0.6907260490650423
+56,-36,No Review & No Catalogue,0.6379788393529818
+57,-36,"No Review, Catalogue",0.6930030164494019
+58,-36,Review & Catalogue,0.7036923127498174
+59,-36,"Review, No Catalogue",0.6932700332443215
+60,-35,No Review & No Catalogue,0.638976573688758
+61,-35,"No Review, Catalogue",0.6952902962280232
+62,-35,Review & Catalogue,0.7095923064362412
+63,-35,"Review, No Catalogue",0.6947669949428162
+64,-34,No Review & No Catalogue,0.6391576311671338
+65,-34,"No Review, Catalogue",0.6956013654095446
+66,-34,Review & Catalogue,0.7143957600139925
+67,-34,"Review, No Catalogue",0.6967249822459485
+68,-33,No Review & No Catalogue,0.6439282090449558
+69,-33,"No Review, Catalogue",0.6981818765451123
+70,-33,Review & Catalogue,0.7204805916868666
+71,-33,"Review, No Catalogue",0.7015829930918696
+72,-32,No Review & No Catalogue,0.6429532176322705
+73,-32,"No Review, Catalogue",0.6999863887137228
+74,-32,Review & Catalogue,0.7226897891190032
+75,-32,"Review, No Catalogue",0.7027540580926579
+76,-31,No Review & No Catalogue,0.6443247389497618
+77,-31,"No Review, Catalogue",0.7019761680622335
+78,-31,Review & Catalogue,0.7247086769499066
+79,-31,"Review, No Catalogue",0.7061410133661397
+80,-30,No Review & No Catalogue,0.6464650792189827
+81,-30,"No Review, Catalogue",0.7043028321109602
+82,-30,Review & Catalogue,0.7289252237456717
+83,-30,"Review, No Catalogue",0.7124390793257355
+84,-29,No Review & No Catalogue,0.6459478253760793
+85,-29,"No Review, Catalogue",0.7062976495629998
+86,-29,Review & Catalogue,0.7316272544056076
+87,-29,"Review, No Catalogue",0.7152850202459976
+88,-28,No Review & No Catalogue,0.6451932919929599
+89,-28,"No Review, Catalogue",0.710263804664434
+90,-28,Review & Catalogue,0.735338998327249
+91,-28,"Review, No Catalogue",0.7184198255396387
+92,-27,No Review & No Catalogue,0.6497320058219821
+93,-27,"No Review, Catalogue",0.7085425188273718
+94,-27,Review & Catalogue,0.7388285889099789
+95,-27,"Review, No Catalogue",0.7219298046628558
+96,-26,No Review & No Catalogue,0.6555230160972721
+97,-26,"No Review, Catalogue",0.7120820042779821
+98,-26,Review & Catalogue,0.7424502146364819
+99,-26,"Review, No Catalogue",0.7224458682753342
+100,-25,No Review & No Catalogue,0.6574433728460356
+101,-25,"No Review, Catalogue",0.7149722888687164
+102,-25,Review & Catalogue,0.7427246614112154
+103,-25,"Review, No Catalogue",0.7260551072803042
+104,-24,No Review & No Catalogue,0.6594962242492227
+105,-24,"No Review, Catalogue",0.7187142572437502
+106,-24,Review & Catalogue,0.7431454891452974
+107,-24,"Review, No Catalogue",0.7249774423824635
+108,-23,No Review & No Catalogue,0.6653584046842563
+109,-23,"No Review, Catalogue",0.7208037184168931
+110,-23,Review & Catalogue,0.7447658827624373
+111,-23,"Review, No Catalogue",0.7266600821191294
+112,-22,No Review & No Catalogue,0.6664644346562157
+113,-22,"No Review, Catalogue",0.7217122632265892
+114,-22,Review & Catalogue,0.7468902004509834
+115,-22,"Review, No Catalogue",0.7306470501699036
+116,-21,No Review & No Catalogue,0.6702569921279407
+117,-21,"No Review, Catalogue",0.7221421682631008
+118,-21,Review & Catalogue,0.7501124134393796
+119,-21,"Review, No Catalogue",0.7294823359106923
+120,-20,No Review & No Catalogue,0.6719081954862246
+121,-20,"No Review, Catalogue",0.724692649037851
+122,-20,Review & Catalogue,0.7538002589139747
+123,-20,"Review, No Catalogue",0.7306180498381377
+124,-19,No Review & No Catalogue,0.6737519878036308
+125,-19,"No Review, Catalogue",0.7216833666102833
+126,-19,Review & Catalogue,0.7582989433549421
+127,-19,"Review, No Catalogue",0.7276784710660157
+128,-18,No Review & No Catalogue,0.6796660434580614
+129,-18,"No Review, Catalogue",0.7219522451423079
+130,-18,Review & Catalogue,0.7613935965806965
+131,-18,"Review, No Catalogue",0.7315935887246425
+132,-17,No Review & No Catalogue,0.680433359593599
+133,-17,"No Review, Catalogue",0.723862479968571
+134,-17,Review & Catalogue,0.7639574047448877
+135,-17,"Review, No Catalogue",0.7333110063521981
+136,-16,No Review & No Catalogue,0.6821585534128061
+137,-16,"No Review, Catalogue",0.7287885425639339
+138,-16,Review & Catalogue,0.7661059824564217
+139,-16,"Review, No Catalogue",0.736230982847008
+140,-15,No Review & No Catalogue,0.6848996798037277
+141,-15,"No Review, Catalogue",0.7369520816581517
+142,-15,Review & Catalogue,0.768951531390286
+143,-15,"Review, No Catalogue",0.73350363890176
+144,-14,No Review & No Catalogue,0.6877048922016166
+145,-14,"No Review, Catalogue",0.7385786043038596
+146,-14,Review & Catalogue,0.7723304829747872
+147,-14,"Review, No Catalogue",0.7386598551277717
+148,-13,No Review & No Catalogue,0.6914879724031228
+149,-13,"No Review, Catalogue",0.7439870301038902
+150,-13,Review & Catalogue,0.7747542097169144
+151,-13,"Review, No Catalogue",0.7421429511851615
+152,-12,No Review & No Catalogue,0.6977980840304205
+153,-12,"No Review, Catalogue",0.7485740833776209
+154,-12,Review & Catalogue,0.780155041643125
+155,-12,"Review, No Catalogue",0.7437609199951921
+156,-11,No Review & No Catalogue,0.6981754761776205
+157,-11,"No Review, Catalogue",0.7515671156067979
+158,-11,Review & Catalogue,0.7817308111566059
+159,-11,"Review, No Catalogue",0.745022493238633
+160,-10,No Review & No Catalogue,0.6997423836141967
+161,-10,"No Review, Catalogue",0.7522396992366869
+162,-10,Review & Catalogue,0.7847507136158054
+163,-10,"Review, No Catalogue",0.7485888973069869
+164,-9,No Review & No Catalogue,0.7017256611378654
+165,-9,"No Review, Catalogue",0.7541770784390999
+166,-9,Review & Catalogue,0.7884173692682607
+167,-9,"Review, No Catalogue",0.7519942979479595
+168,-8,No Review & No Catalogue,0.7017207046171291
+169,-8,"No Review, Catalogue",0.758807448019858
+170,-8,Review & Catalogue,0.7908049219237548
+171,-8,"Review, No Catalogue",0.7564513208379459
+172,-7,No Review & No Catalogue,0.7059906539337194
+173,-7,"No Review, Catalogue",0.7624202519846573
+174,-7,Review & Catalogue,0.7926921001605254
+175,-7,"Review, No Catalogue",0.7595128518748628
+176,-6,No Review & No Catalogue,0.7097792987453598
+177,-6,"No Review, Catalogue",0.767068262481135
+178,-6,Review & Catalogue,0.7954525883619349
+179,-6,"Review, No Catalogue",0.7625766506594062
+180,-5,No Review & No Catalogue,0.7147066325391953
+181,-5,"No Review, Catalogue",0.7713782267413835
+182,-5,Review & Catalogue,0.7978752570806205
+183,-5,"Review, No Catalogue",0.7655658182768259
+184,-4,No Review & No Catalogue,0.728850951340909
+185,-4,"No Review, Catalogue",0.7843383931085244
+186,-4,Review & Catalogue,0.8101545298352866
+187,-4,"Review, No Catalogue",0.7753023282586148
+188,-3,No Review & No Catalogue,0.7313071291155305
+189,-3,"No Review, Catalogue",0.7858527863407498
+190,-3,Review & Catalogue,0.8129758464926691
+191,-3,"Review, No Catalogue",0.7743645764123029
+192,-2,No Review & No Catalogue,0.7304156038123428
+193,-2,"No Review, Catalogue",0.7863202690999932
+194,-2,Review & Catalogue,0.8153433943978262
+195,-2,"Review, No Catalogue",0.7726514423928891
+196,-1,No Review & No Catalogue,0.7316362140220131
+197,-1,"No Review, Catalogue",0.7876040389720865
+198,-1,Review & Catalogue,0.8176153217234102
+199,-1,"Review, No Catalogue",0.7730164132875683
+200,0,No Review & No Catalogue,0.7333080690128574
+201,0,"No Review, Catalogue",0.787724224655579
+202,0,Review & Catalogue,0.8182708237428022
+203,0,"Review, No Catalogue",0.7698203482914274
+204,1,No Review & No Catalogue,0.7329108858731099
+205,1,"No Review, Catalogue",0.7864083028068694
+206,1,Review & Catalogue,0.8176380566265716
+207,1,"Review, No Catalogue",0.7728648281007302
+208,2,No Review & No Catalogue,0.7312576682510613
+209,2,"No Review, Catalogue",0.7868037251366864
+210,2,Review & Catalogue,0.81925823431331
+211,2,"Review, No Catalogue",0.7690748966865913
+212,3,No Review & No Catalogue,0.7295172366453458
+213,3,"No Review, Catalogue",0.785822702923832
+214,3,Review & Catalogue,0.8191570999816092
+215,3,"Review, No Catalogue",0.7654309661939954
+216,4,No Review & No Catalogue,0.7304690684211593
+217,4,"No Review, Catalogue",0.7847852884776877
+218,4,Review & Catalogue,0.8193938514672927
+219,4,"Review, No Catalogue",0.7598626308818245
+220,5,No Review & No Catalogue,0.7258769912462937
+221,5,"No Review, Catalogue",0.7845880521356084
+222,5,Review & Catalogue,0.8190483398607796
+223,5,"Review, No Catalogue",0.754611337978919
+224,6,No Review & No Catalogue,0.7154960105962891
+225,6,"No Review, Catalogue",0.7744358630804142
+226,6,Review & Catalogue,0.8105489110360072
+227,6,"Review, No Catalogue",0.7334452464813968
+228,7,No Review & No Catalogue,0.7079361673540956
+229,7,"No Review, Catalogue",0.7746726197763992
+230,7,Review & Catalogue,0.8084986280036097
+231,7,"Review, No Catalogue",0.7318025140023837
+232,8,No Review & No Catalogue,0.705038435063205
+233,8,"No Review, Catalogue",0.7743731068026951
+234,8,Review & Catalogue,0.8061756134516578
+235,8,"Review, No Catalogue",0.7291230463819428
+236,9,No Review & No Catalogue,0.705536263452651
+237,9,"No Review, Catalogue",0.775629370279234
+238,9,Review & Catalogue,0.8043452799625692
+239,9,"Review, No Catalogue",0.7293241462019907
+240,10,No Review & No Catalogue,0.7050243598869596
+241,10,"No Review, Catalogue",0.7732513607230524
+242,10,Review & Catalogue,0.805765172720899
+243,10,"Review, No Catalogue",0.7292099185350356
+244,11,No Review & No Catalogue,0.7087886006190325
+245,11,"No Review, Catalogue",0.7733008313399632
+246,11,Review & Catalogue,0.8049475839895897
+247,11,"Review, No Catalogue",0.7249641284134358
+248,12,No Review & No Catalogue,0.7017532769287268
+249,12,"No Review, Catalogue",0.7731187289004714
+250,12,Review & Catalogue,0.8049988649005747
+251,12,"Review, No Catalogue",0.7311317137575372
+252,13,No Review & No Catalogue,0.7059581414418027
+253,13,"No Review, Catalogue",0.7723110183289059
+254,13,Review & Catalogue,0.8039072631225519
+255,13,"Review, No Catalogue",0.7286688578148216
+256,14,No Review & No Catalogue,0.7077424878029746
+257,14,"No Review, Catalogue",0.7727059550201227
+258,14,Review & Catalogue,0.8043149272803388
+259,14,"Review, No Catalogue",0.7235179326181467
+260,15,No Review & No Catalogue,0.7026840054908945
+261,15,"No Review, Catalogue",0.7685290001295684
+262,15,Review & Catalogue,0.8050009420221461
+263,15,"Review, No Catalogue",0.7261895865097692
+264,16,No Review & No Catalogue,0.7037437169333823
+265,16,"No Review, Catalogue",0.7670729376329383
+266,16,Review & Catalogue,0.8048247326348026
+267,16,"Review, No Catalogue",0.7292891211764491
+268,17,No Review & No Catalogue,0.706117977221847
+269,17,"No Review, Catalogue",0.7695120057830371
+270,17,Review & Catalogue,0.804761444213611
+271,17,"Review, No Catalogue",0.7277680735376367
+272,18,No Review & No Catalogue,0.7097403815603817
+273,18,"No Review, Catalogue",0.7682077634179129
+274,18,Review & Catalogue,0.8042978092059851
+275,18,"Review, No Catalogue",0.7281957140468567
+276,19,No Review & No Catalogue,0.7086705454265461
+277,19,"No Review, Catalogue",0.7655125349599161
+278,19,Review & Catalogue,0.8044516700250152
+279,19,"Review, No Catalogue",0.7261880487596637
+280,20,No Review & No Catalogue,0.7099222286039536
+281,20,"No Review, Catalogue",0.7654122585298723
+282,20,Review & Catalogue,0.8058719076851566
+283,20,"Review, No Catalogue",0.7237148924575968
+284,21,No Review & No Catalogue,0.7090828618230447
+285,21,"No Review, Catalogue",0.7670604540127776
+286,21,Review & Catalogue,0.8069038475643945
+287,21,"Review, No Catalogue",0.7225982983391019
+288,22,No Review & No Catalogue,0.7095683370445877
+289,22,"No Review, Catalogue",0.7639261006439407
+290,22,Review & Catalogue,0.8048011779525355
+291,22,"Review, No Catalogue",0.7231602955462291
+292,23,No Review & No Catalogue,0.7131961620971581
+293,23,"No Review, Catalogue",0.762629994008159
+294,23,Review & Catalogue,0.8037746017708456
+295,23,"Review, No Catalogue",0.7236510391013979
+296,24,No Review & No Catalogue,0.7144693041372255
+297,24,"No Review, Catalogue",0.7617339392328053
+298,24,Review & Catalogue,0.8015314719661405
+299,24,"Review, No Catalogue",0.7208176798629631
+300,25,No Review & No Catalogue,0.716946324388502
+301,25,"No Review, Catalogue",0.75936752570666
+302,25,Review & Catalogue,0.8005147927278348
+303,25,"Review, No Catalogue",0.7190029083308878
+304,26,No Review & No Catalogue,0.7158851548531651
+305,26,"No Review, Catalogue",0.759823788537118
+306,26,Review & Catalogue,0.8012053743352817
+307,26,"Review, No Catalogue",0.7189007006656044
+308,27,No Review & No Catalogue,0.7175918842516978
+309,27,"No Review, Catalogue",0.7623581582632069
+310,27,Review & Catalogue,0.8012475342471131
+311,27,"Review, No Catalogue",0.7172633696117563
+312,28,No Review & No Catalogue,0.7166609283591261
+313,28,"No Review, Catalogue",0.7604814956348416
+314,28,Review & Catalogue,0.7989681831312454
+315,28,"Review, No Catalogue",0.7119835965398602
+316,29,No Review & No Catalogue,0.7128654965794522
+317,29,"No Review, Catalogue",0.7616079119838473
+318,29,Review & Catalogue,0.7988124875280295
+319,29,"Review, No Catalogue",0.7138786483536879
+320,30,No Review & No Catalogue,0.7113036245088088
+321,30,"No Review, Catalogue",0.7597808191910126
+322,30,Review & Catalogue,0.7963940472404324
+323,30,"Review, No Catalogue",0.7151252127356719
+324,31,No Review & No Catalogue,0.7153191428410464
+325,31,"No Review, Catalogue",0.75829942083568
+326,31,Review & Catalogue,0.7963967339843465
+327,31,"Review, No Catalogue",0.714438979999206
+328,32,No Review & No Catalogue,0.7190155670006473
+329,32,"No Review, Catalogue",0.7581896128205957
+330,32,Review & Catalogue,0.7962749589260895
+331,32,"Review, No Catalogue",0.7142920202531984
+332,33,No Review & No Catalogue,0.7212290614125131
+333,33,"No Review, Catalogue",0.7600916792300485
+334,33,Review & Catalogue,0.7949777717699642
+335,33,"Review, No Catalogue",0.7161319656694384
+336,34,No Review & No Catalogue,0.7196794445559749
+337,34,"No Review, Catalogue",0.7594253540486349
+338,34,Review & Catalogue,0.7946583521260416
+339,34,"Review, No Catalogue",0.7175113572286377
+340,35,No Review & No Catalogue,0.7203010367575974
+341,35,"No Review, Catalogue",0.7619067071510909
+342,35,Review & Catalogue,0.7938259798270626
+343,35,"Review, No Catalogue",0.7216371866605644
+344,36,No Review & No Catalogue,0.7210230665576554
+345,36,"No Review, Catalogue",0.76027313971898
+346,36,Review & Catalogue,0.7926767028046983
+347,36,"Review, No Catalogue",0.7212402302098586
+348,37,No Review & No Catalogue,0.7190565485701296
+349,37,"No Review, Catalogue",0.7609086012808873
+350,37,Review & Catalogue,0.7911747679898353
+351,37,"Review, No Catalogue",0.7227558422473601
+352,38,No Review & No Catalogue,0.7208513173870353
+353,38,"No Review, Catalogue",0.7607811105062406
+354,38,Review & Catalogue,0.7894657869224617
+355,38,"Review, No Catalogue",0.7213803401270222
+356,39,No Review & No Catalogue,0.7206388412527835
+357,39,"No Review, Catalogue",0.7611501245537714
+358,39,Review & Catalogue,0.7877580238975794
+359,39,"Review, No Catalogue",0.7208953388492588
+360,40,No Review & No Catalogue,0.7185045633366901
+361,40,"No Review, Catalogue",0.7624201940796735
+362,40,Review & Catalogue,0.7854812280448652
+363,40,"Review, No Catalogue",0.7187990536313089
+364,41,No Review & No Catalogue,0.7152909346213675
+365,41,"No Review, Catalogue",0.762859684062113
+366,41,Review & Catalogue,0.7814969806759076
+367,41,"Review, No Catalogue",0.718991385705388
+368,42,No Review & No Catalogue,0.7120853948326821
+369,42,"No Review, Catalogue",0.7644746324526531
+370,42,Review & Catalogue,0.7812659275927035
+371,42,"Review, No Catalogue",0.7184736371930629
+372,43,No Review & No Catalogue,0.7083842415247833
+373,43,"No Review, Catalogue",0.7659313247336706
+374,43,Review & Catalogue,0.7802614954685677
+375,43,"Review, No Catalogue",0.7168829105690374
+376,44,No Review & No Catalogue,0.7077072078231201
+377,44,"No Review, Catalogue",0.7657326760697087
+378,44,Review & Catalogue,0.7781655543948351
+379,44,"Review, No Catalogue",0.7111615088029021
+380,45,No Review & No Catalogue,0.7018085411305977
+381,45,"No Review, Catalogue",0.7651071869797099
+382,45,Review & Catalogue,0.7764823668521513
+383,45,"Review, No Catalogue",0.7075176041893391
+384,46,No Review & No Catalogue,0.6932868770920884
+385,46,"No Review, Catalogue",0.7655808563925303
+386,46,Review & Catalogue,0.7751965358350158
+387,46,"Review, No Catalogue",0.7090227939889203
+388,47,No Review & No Catalogue,0.6966878140021585
+389,47,"No Review, Catalogue",0.7653692116147579
+390,47,Review & Catalogue,0.7737038499407501
+391,47,"Review, No Catalogue",0.7065515562340704
+392,48,No Review & No Catalogue,0.7045351536412893
+393,48,"No Review, Catalogue",0.7656225601796145
+394,48,Review & Catalogue,0.7723594903682169
+395,48,"Review, No Catalogue",0.702833803931962
+396,49,No Review & No Catalogue,0.7028427868112616
+397,49,"No Review, Catalogue",0.7633988989803107
+398,49,Review & Catalogue,0.7720454008808724
+399,49,"Review, No Catalogue",0.7050939142640443
+400,50,No Review & No Catalogue,0.7041589834908704
+401,50,"No Review, Catalogue",0.7628017437163517
+402,50,Review & Catalogue,0.7745217534868607
+403,50,"Review, No Catalogue",0.7001695622026005
